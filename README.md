@@ -20,6 +20,14 @@
 
 ---
 
+## pytorch
+**GOAL**
+   * **data**: [PyTorch MNIST Dataset](https://pytorch.org/vision/main/generated/torchvision.datasets.MNIST.html)
+   * **libraries**: numpy pandas matplotlib torch
+   * **Cool methods**: NN construction
+
+---
+
 ## WIP
 
 ---
