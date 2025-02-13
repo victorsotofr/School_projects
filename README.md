@@ -14,9 +14,9 @@
 ## reinforcement_learning  
 **GOAL**: show how to optimize an agent using reinforcement learning.
 !! Uses the *RL.py* file !!
-	* **Environment**: Taxi-v3 environment.
-	* **libraries**: numpy gymnasium
-  * **Cool methods**: WIP
+   * **Environment**: Taxi-v3 environment.
+   * **libraries**: numpy gymnasium
+   * **Cool methods**: WIP
 
 ---
 
