@@ -28,6 +28,15 @@
 
 ---
 
+## german_credit
+**GOAL**: build the best possible classifier for a default risk, with a non classical metric
+   * **credits**: Erwan Le Pennec, Professor @École polytechnique
+   * **data**: [Kaggle Challenge](https://pytorch.org/vision/main/generated/torchvision.datasets.MNIST.html](https://www.kaggle.com/competitions/dsb-24-german-credit/overview)
+   * **libraries**: numpy pandas matplotlib seaborn sklearn
+   * **Cool methods**: optuna hyperparameters optimization using StratifiedKFold (for unbalanced classes). Optimization was done on GoogleColab.
+
+---
+
 ## WIP
 
 ---
