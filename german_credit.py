@@ -58,10 +58,10 @@ preprocessor = ColumnTransformer(
 pipeline = make_pipeline(
     preprocessor,
     RandomForestClassifier( # We fine-tuned the Hyperparameters using Optuna and StratifiedKFold on Google Colab
-        n_estimators = 200, 
-        max_depth = 11, 
-        min_samples_split = 6, 
-        min_samples_leaf = 4,
+        n_estimators = 450, 
+        max_depth = 12, 
+        min_samples_split = 4, 
+        min_samples_leaf = 3,
         random_state =42
         )
 )
